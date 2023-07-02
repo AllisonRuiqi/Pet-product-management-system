@@ -1,0 +1,1 @@
+<script>window.location.href="${pageContext.request.contextPath}/before";</script>
